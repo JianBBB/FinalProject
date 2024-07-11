@@ -9,7 +9,7 @@
 * **OS**: Window 10
 * **Server**: Tomcat 9.0
 * **DBMS**: Oracle 11g
-* **Language**:   
+* **Language & Tools**:   
   **Front-End** : HTML5, CSS3, JavaScript, JQuery, Ajax  
   **Back-End** : Java, Servlet, JSP, Spring, MyBatis  
   **Tools**: STS, Toad, eXERD, Git  
